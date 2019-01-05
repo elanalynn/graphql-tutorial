@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "37",
+      "firstName": "Shad",
+      "age": 41,
+      "companyId": "1"
+    },
+    {
+      "id": "89",
+      "firstName": "Elana",
+      "age": 34,
+      "companyId": "1"
+    },
+    {
+      "id": "22",
+      "firstName": "Damon",
+      "age": 21,
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "WLLM",
+      "description": "Happiness"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Search"
+    }
+  ]
+}
